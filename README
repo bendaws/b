@@ -1,0 +1,4 @@
+B is my own small programming language written in V. V is designed to be
+like Go and Rust but as fast as C so I'm going to try and make a functioning language in it.
+
+You can read through TODO for my planned roadmap.
